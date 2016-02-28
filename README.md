@@ -1,7 +1,7 @@
 # FairyTaleMap
 
 This program was created using Processing, a Java-based programming
-language to program images, animation, and interactivity. http:/www.processing.org
+language to program images, animation, and interactivity. www.processing.org
 
 A data visualization project that parse the data collected via a search query
 to the Digital Public Library of America and visualize using a world map.
